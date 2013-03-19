@@ -1,0 +1,14 @@
+/* line 1, ../../app/assets/stylesheets/hotels.css.scss */
+.table td {
+  text-align: center;
+}
+
+/* line 4, ../../app/assets/stylesheets/hotels.css.scss */
+.table th {
+  text-align: center;
+}
+
+/* line 8, ../../app/assets/stylesheets/hotels.css.scss */
+.price {
+  font-size: 130%;
+}
